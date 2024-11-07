@@ -1,0 +1,5 @@
+<meta>
+	<info author="Nicolas" name="Sistema de Ruta de Vehiculos" version="1.0" type="script" />
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+</meta>
